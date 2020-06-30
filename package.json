@@ -1,0 +1,15 @@
+{
+  "name": "m.sotn.io",
+  "version": "1.0.0",
+  "description": "ePSXe MCR to BizHawk SaveRAM converter",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/3snowp7im/m.soutn.io.git"
+  },
+  "author": "Wild Mouse <3snowp7im@gmail.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/3snowp7im/m.soutn.io/issues"
+  },
+  "homepage": "https://m.sotn.io"
+}
